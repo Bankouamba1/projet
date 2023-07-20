@@ -1,0 +1,111 @@
+body
+{
+background-color:#fff;
+height:50px;
+width:600px;
+}
+section
+{
+background:#f1f1f1;
+width:380px;
+height:300px;
+top:50px;
+right:50px;
+left:400px;
+margin:auto;
+position:relative;
+border-radius:10px;
+background: #fff;
+box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+
+}
+h1
+{
+text-align:center;
+}
+
+
+#depot, #retrait
+{
+   
+display:block;
+margin: 20px;
+text-align:center;	
+background-color: #53af57;
+padding: 14px 20px;
+border: none;
+border-radius:10px;
+
+}
+img
+{
+ position: relative;
+top: -30PX;
+width:50PX;
+height:50PX;
+}
+
+footer
+ {
+  background-color: #53af57;
+  color: #333;
+  text-align:center;
+  left: -5px;
+  right: -30px;
+  padding: 20px;
+  bottom: -200PX;
+  position: relative;
+  width:1350px;
+}
+
+ p
+ {
+position: relative;
+text-align: center;
+
+ }
+ h2
+ { 
+    color: #53af57;
+   position:;
+   position: relative;
+   left: 110%;
+    text-align: ;
+ }
+ #contact
+ {
+    position: relative;
+    bottom: -30px;
+
+
+ }
+ #whatsap
+ {
+    position: relative;
+    right: -210%;
+ }
+ #continuer
+ {
+position: relative;
+top: 50px;
+left: 150px;
+background-color: #53af57;
+border-radius: 10px;
+height: 40px;
+width: 80px;
+border: none;
+
+ }
+ #couleur
+ {
+color: white;
+text-decoration: none;
+
+ }
+ .coulimg
+ {
+border-radius:50%;
+
+ }
+ 
+ 

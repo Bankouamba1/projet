@@ -1,0 +1,48 @@
+body
+{
+background:#fff;
+
+
+}
+section
+{
+background:#f1f1f1;
+width:25%;
+height:30%;
+bottom:50px;
+top:50px;
+right:50px;
+left:50px;
+margin:auto;
+position:absolute;
+border-radius:10px;
+background: #fff;
+box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+
+}
+h1
+{
+	color:white;
+	background:#53af57;
+text-align:center;
+}
+img
+{
+width:110%;
+height:100%;
+}
+button
+{	
+margin:auto 30px;
+width:30%;
+border:none;
+height:25%;
+
+}	
+
+
+
+
+
+
+
